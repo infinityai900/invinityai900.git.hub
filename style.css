@@ -1,0 +1,47 @@
+body {
+    background: radial-gradient(circle, #000000, #1b0029, #25003c);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.logo {
+    width: 160px;
+    margin: 40px auto;
+    display: block;
+}
+
+.card {
+    background: rgba(0,0,0,0.35);
+    border: 2px solid #6a00ff;
+    padding: 25px;
+    border-radius: 18px;
+    width: 90%;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+.btn-primary {
+    width: 100%;
+    padding: 14px;
+    background: linear-gradient(90deg, #d500f9, #5a00ff);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.preview-img {
+    max-width: 90%;
+    margin: 30px auto;
+    border-radius: 12px;
+    display: block;
+}
+
+footer {
+    margin: 40px 0;
+    opacity: 0.6;
+    font-size: 13px;
+}
